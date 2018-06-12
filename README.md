@@ -5,11 +5,23 @@
 ## 运用的知识点
 vue2.0 + vue-cli+ vue-router + axios + webpack + MuseUI + sass 
 采用flex布局
+## demo gif
+![](https://github.com/shuipingZheng/vueJs-community/blob/master/static/images/Free-Converter.com-20180611042306-8862128411.gif)
+
+## 截图
+![](https://github.com/shuipingZheng/vueJs-community/blob/master/static/images/20180612110620.png)
+![](https://github.com/shuipingZheng/vueJs-community/blob/master/static/images/20180612110414.png)
+![](https://github.com/shuipingZheng/vueJs-community/blob/master/static/images/20180612110542.png)
+![](https://github.com/shuipingZheng/vueJs-community/blob/master/static/images/20180612110546.png)
+![](https://github.com/shuipingZheng/vueJs-community/blob/master/static/images/20180612110423.png)
+![](https://github.com/shuipingZheng/vueJs-community/blob/master/static/images/20180612110435.png)
+![](https://github.com/shuipingZheng/vueJs-community/blob/master/static/images/20180612110441.png)
+![](https://github.com/shuipingZheng/vueJs-community/blob/master/static/images/20180612110447.png)
 
 [项目链接](https://shuipingzheng.github.io/vueJs社区)
 
 ## 二维码查看效果
-![demo gif]()
+![](https://github.com/shuipingZheng/vueJs-community/blob/master/static/images/1528706855.png)
 
 ## 实现功能
 * 首页模块主题列表
