@@ -1,7 +1,7 @@
 <template>
 	<div class="login">
 		 <app-bar appBar="登录"></app-bar>
-		 <mu-text-field label="accessToken" v-model="accesstoken" hintText="请输入accessToken" type="text" labelFloat /><br>
+		 <mu-text-field label="accessToken" v-model="accesstoken" hintText="请输入accessToken" type="password" labelFloat /><br>
 		 <mu-raised-button class="demo-raised-button" label="登录"  primary @click="login()"/><br><br>
 
 		 <mu-raised-button class="demo-raised-button" label="如何获取accesstoken" icon="info" @click="showSnackbar()"/>
@@ -102,7 +102,7 @@ import store from 'vuex'
 	  align-items: center;
 	  justify-content: center;
 	  max-width: 37.5rem;
-	  background: #323232;
+	  background: #323232 !important;
 	  color: #ffffff;
 	}
 </style>

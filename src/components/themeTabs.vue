@@ -132,7 +132,7 @@ export default {
     this.scroller = this.$refs.theme //监听滚动的元素
     let self = this;
     eventBus.$on("publish",function(msg){
-        
+       
         self.activeTab = msg;
         self.itemList[msg].pageNum = 1;
         self.getData();
@@ -190,7 +190,7 @@ export default {
                     self.itemList[self.activeTab].More = false
                     return false;
                   }else if( res.data.data.length < self.limit ){
-                    
+
                     self.itemList[self.activeTab].More = false
                   }
                   self.itemList[self.activeTab].data = self.itemList[self.activeTab].data.concat(res.data.data) 

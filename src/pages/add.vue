@@ -82,7 +82,6 @@
 						  	eventBus.$emit("publish",self.modelName)
 						  	
 						  	self.themeTitle = "";
-						  	self.modelName = "ask";
 						  	self.input = "";
 						  })
 						  .catch(function(error){
