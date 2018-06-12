@@ -1,6 +1,31 @@
 # vue-community
 
-> A Vue.js project
+> 使用VueJs社区提供的API 开发的vue项目
+
+## 运用的知识点
+vue2.0 + vue-cli+ vue-router + axios + webpack + MuseUI + sass 
+采用flex布局
+
+[项目链接](https://shuipingzheng.github.io/vueJs社区)
+
+## 二维码查看效果
+![demo gif]()
+
+## 实现功能
+* 首页模块主题列表
+  * 文章查看
+  * 文章收藏
+  * 文章评论
+  * 评论回复
+  * 无限滚动加载数据
+* 主题发布功能(支持markdown编辑功能)
+* 消息模块（已读、未读）
+* 个人中心
+  * 收藏话题
+  * 最近回复话题
+  * 发布的话题
+* 登录退出
+* 本地存储登录信息
 
 ## Build Setup
 
@@ -18,4 +43,3 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
