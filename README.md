@@ -3,7 +3,7 @@
 > 使用VueJs社区提供的API 开发的vue项目
 
 ## 运用的知识点
-vue2.0 + vue-cli+ vue-router + axios + webpack + MuseUI + sass 
+vue2.0 + vue-cli+ vue-router + axios + vuex + webpack + MuseUI + sass 
 采用flex布局
 ## demo gif
 ![](https://github.com/shuipingZheng/vueJs-community/blob/master/static/images/Free-Converter.com-20180611042306-8862128411.gif)
